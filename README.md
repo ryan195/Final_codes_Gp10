@@ -1,7 +1,7 @@
 # Final_codes_Gp10
 <h2>BT4222 Machine Learning Project on Heart Disease Prediction</h2>
 
-<h3> Contributors:</h3> <br/>
+<h3> Contributors:</h3> 
 Mohammed Izhak @ Hein Htet <br/>
 Lin Wen Jing  <br/>
 Yap Hen Lit David <br/>
@@ -15,8 +15,7 @@ Key risk indicators of heart related diseases identified from the predictions ca
 <h3> Models used </h3>
 Using Logistic Regression, Linear SVC, XGB Classifier, 
 Random Forest Classifier and Voting Class Ensemble on heart_2020_encoded.csv 
-along with imbalanced data handling using SMOTE and SMOTEENN and Class Weighing </br>
-
+along with imbalanced data handling using SMOTE and SMOTEENN and Class Weighing. </br>
 XGB Classifier is used as the final model for hyperparameter tuning.
 
 
