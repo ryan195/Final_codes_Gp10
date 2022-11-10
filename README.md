@@ -1,7 +1,7 @@
 # Final_codes_Gp10
 BT4222 Machine Learning Project on Heart Disease Prediction
 
-Contributors:
+Contributors: <br/>
 Mohammed Izhak @ Hein Htet <br/>
 Lin Wen Jing  <br/>
 Yap Hen Lit David <br/>
