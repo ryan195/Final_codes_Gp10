@@ -18,5 +18,5 @@ Random Forest Classifier and Voting Class Ensemble on heart_2020_encoded.csv
 along with imbalanced data handling using SMOTE and SMOTEENN and Class Weighing. </br>
 XGB Classifier is used as the final model for hyperparameter tuning.
 
-
+</br>
 As such, we are proud to propose!
