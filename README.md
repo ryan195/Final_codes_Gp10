@@ -1,7 +1,7 @@
 # Final_codes_Gp10
 <h2>BT4222 Machine Learning Project on Heart Disease Prediction</h2>
 
-<h3> Contributors:</h3> 
+<h3> Contributors </h3> 
 Mohammed Izhak @ Hein Htet <br/>
 Lin Wen Jing  <br/>
 Yap Hen Lit David <br/>
@@ -11,6 +11,10 @@ Tan Wei Jie Ryan <br/>
 <h3> Project Motivation </h3>
 This project aims to predict the potential presence of heart related diseases in patients accurately based on other variables available such as the past medical histories, age, general physical and mental health, and more.
 Key risk indicators of heart related diseases identified from the predictions can be used to raise awareness among the public such that they are able to practise their own form of preventive measures. 
+
+<h3> Dataset Used </h3>
+https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
+Cleaned data is in heart_2020_encoded.csv
 
 <h3> Models used </h3>
 Using Logistic Regression, Linear SVC, XGB Classifier, 
