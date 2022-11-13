@@ -13,8 +13,8 @@ This project aims to predict the potential presence of heart related diseases in
 Key risk indicators of heart related diseases identified from the predictions can be used to raise awareness among the public such that they are able to practise their own form of preventive measures. 
 
 <h3> Dataset Used </h3>
-https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
-Cleaned data is in heart_2020_encoded.csv
+https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease <br/>
+Cleaned data is in heart_2020_encoded.csv. We changed the multinomial classification data to binary classification for better handling by the models, and removed outliers for numerical data.
 
 <h3> Models used </h3>
 Using Logistic Regression, Linear SVC, XGB Classifier, 
